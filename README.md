@@ -1,12 +1,12 @@
 # communicating-with-impact-networking-presentation
 Self-reflection and skill-building project focused on improving public speaking, non-verbal communication, and strategic networking through structured feedback and presentation analysis.
-# 🎤 Communicating with Impact – Presentation & Networking Strategy
+# Communicating with Impact – Presentation & Networking Strategy
 
 This project documents a journey of improving **public speaking**, **strategic networking**, and **personal storytelling**. Through structured peer feedback and video analysis, it highlights communication strengths, areas for development, and action plans to become a more confident, compelling speaker.
 
 ---
 
-## 🎯 Objective
+## Objective
 
 To develop effective communication and influence skills by:
 - Enhancing clarity, confidence, and presence during presentations
@@ -16,13 +16,13 @@ To develop effective communication and influence skills by:
 
 ---
 
-## 💡 Key Development Themes
+## Key Development Themes
 
-### 🎙️ Presentation Feedback (Live + Video Review)
+###  Presentation Feedback (Live + Video Review)
 - **Strengths**: Interactive questions, aligned facial expressions, engaging tone
 - **Areas to Improve**: Vocal variation, posture control, transition clarity
 
-### 🌐 Strategic Networking Mini-Talk
+### Strategic Networking Mini-Talk
 - Shared experience of growing from an introvert to a proactive connector
 - Tips shared:
   - Book meetings in advance
@@ -31,15 +31,15 @@ To develop effective communication and influence skills by:
 
 ---
 
-## 📁 Files Included
+##  Files Included
 
 - `Communicating with Impact A1.docx` – Final reflection and action plan
 
-> 📌 **Note**: The original presentation video is not included due to platform and privacy restrictions.
+> **Note**: The original presentation video is not included due to platform and privacy restrictions.
 
 ---
 
-## 🧠 Communication Frameworks Referenced
+##  Communication Frameworks Referenced
 
 - Monroe’s Motivated Sequence  
 - SCQ Structure (Situation, Complication, Question)  
@@ -47,7 +47,7 @@ To develop effective communication and influence skills by:
 
 ---
 
-## 🚀 Key Takeaways
+##  Key Takeaways
 
 - Self-awareness is the foundation for influence
 - Small, consistent changes in delivery can transform impact
@@ -55,7 +55,7 @@ To develop effective communication and influence skills by:
 
 ---
 
-## 🏷️ Tags
+## Tags
 
 `#communication` `#public-speaking` `#networking` `#self-reflection`  
 `#presentation-skills` `#influence` `#leadership-development`
